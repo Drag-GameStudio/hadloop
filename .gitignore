@@ -1,6 +1,7 @@
 # presonal
 owner_part/
-
+test_files/
+test_output/
 
 # Python
 __pycache__/

@@ -1,2 +1,2 @@
 class Settings:
-    root_folder = r"C:\Users\sinic\OneDrive\Рабочий стол\hadloop\test_output"
+    root_folder = r"C:\Users\huina\Python Projects\Impotant projects\hadloop\test_output"

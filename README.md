@@ -6,7 +6,7 @@
 
 
 # Run
-### 1) On your clients run project client
+### 1) On your clients run project client and in settings choese your folder to save files
 ### 2) On your master client run project master_client
 ### 3) In menu of master client add your clients
 ### 4) Upload your file
